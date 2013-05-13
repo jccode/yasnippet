@@ -7,3 +7,6 @@
 [submodule "extras/bundles/rails-tmbundle"]
 	path = extras/bundles/rails-tmbundle
 	url = http://github.com/drnic/ruby-on-rails-tmbundle.git
+[submodule "snippets/org-mode"]
+	path = snippets/org-mode
+	url = git@github.com:jccode/yasnippet-org-mode.git
