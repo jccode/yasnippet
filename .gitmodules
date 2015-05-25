@@ -13,3 +13,6 @@
 [submodule "snippets/org-mode"]
 	path = snippets/org-mode
 	url = git@github.com:jccode/yasnippet-org-mode.git
+[submodule "snippets/coffee-mode"]
+	path = snippets/coffee-mode
+	url = https://github.com/jasonm23/yasnippet-coffee-script-snippets.git
