@@ -2,4 +2,4 @@
 # name: mode
 # key: mode
 # --
-# -*- mode: ${org}; -*-
+# -*- mode: ${org}; coding: ${utf-8}; -*-
